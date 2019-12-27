@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import UserItem from './UserItem';
-import replacePathSepForGlob from 'jest-util/build/replacePathSepForGlob';
 
 export class Users extends Component {
     state = {

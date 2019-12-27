@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import './App.css';
-import { render } from '@testing-library/react';
+/* import { render } from '@testing-library/react';
+ */
 import Navbar from './components/layout/Navbar';
 import Users from './components/users/Users';
 
